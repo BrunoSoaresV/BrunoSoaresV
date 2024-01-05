@@ -13,7 +13,6 @@ Atualmente, estou focado em aprofundar meus conhecimentos em:
 Meu objetivo é me tornar um desenvolvedor web fullstack competente, combinando conhecimentos de front-end e back-end para criar aplicações completas e inovadoras.
 
 ## 📊 Estatísticas do GitHub
-![BrunoSoaresV's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoSoaresV&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSoaresV&layout=compact)
 
 ## 📫 Como me Encontrar
