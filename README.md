@@ -1,16 +1,21 @@
-### Hi there 👋
+# Olá, eu sou Bruno Soares Veríssimo 👋
 
-<!--
-**BrunoSoaresV/BrunoSoaresV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! Sou Bruno Soares Veríssimo, um entusiasta da tecnologia e aprendiz em desenvolvimento web. Aqui, você encontrará meus projetos, experimentos e contribuições que refletem minha paixão e dedicação ao aprendizado contínuo na área de programação.
 
-Here are some ideas to get you started:
+## 🌱 Estou Aprendendo
+Atualmente, estou focado em aprofundar meus conhecimentos em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Node.js
+- React
+- React Native
+- JavaScript
+
+Meu objetivo é me tornar um desenvolvedor web fullstack competente, combinando conhecimentos de front-end e back-end para criar aplicações completas e inovadoras.
+
+## 📊 Estatísticas do GitHub
+![BrunoSoaresV's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoSoaresV&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSoaresV&layout=compact)
+
+## 📫 Como me Encontrar
+- LinkedIn: www.linkedin.com/in/brunosoaresv
+- E-mail: brunoverissimo398@gmail.com
