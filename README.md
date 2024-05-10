@@ -1,20 +1,20 @@
-# Olá, eu sou Bruno Soares Veríssimo 👋
+# Hello, I'm Bruno Soares Veríssimo 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou Bruno Soares Veríssimo, um entusiasta da tecnologia e aprendiz em desenvolvimento web. Aqui, você encontrará meus projetos, experimentos e contribuições que refletem minha paixão e dedicação ao aprendizado contínuo na área de programação.
+Welcome to my GitHub profile! I'm Bruno Soares Veríssimo, a technology enthusiast and a web development apprentice. Here, you'll find my projects, experiments, and contributions that reflect my passion and dedication to continuous learning in the realm of coding.
 
-## 🌱 Estou Aprendendo
-Atualmente, estou focado em aprofundar meus conhecimentos em:
+## 🌱 I'm Learning
+ I'm Learning Currently, I'm focused on deepening my knowledge in:
 
 - Node.js
 - React
 - React Native
 - JavaScript
 
-Meu objetivo é me tornar um desenvolvedor web fullstack competente, combinando conhecimentos de front-end e back-end para criar aplicações completas e inovadoras.
+My goal is to become a competent full-stack web developer, combining front-end and back-end knowledge to create complete and innovative applications.
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSoaresV&layout=compact)
 
-## 📫 Como me Encontrar
-- LinkedIn: www.linkedin.com/in/brunosoaresv
+## 📫 How to Reach Me 
+- Linkedin: www.linkedin.com/in/brunosoaresv
 - E-mail: brunoverissimo398@gmail.com
