@@ -7,7 +7,9 @@ Welcome to my GitHub profile! I'm Bruno Soares Veríssimo, a technology enthusia
 
 - Node.js
 - React
-- React Native
+- TypeScript
+- Vue.js
+- Angular
 - JavaScript
 
 My goal is to become a competent full-stack web developer, combining front-end and back-end knowledge to create complete and innovative applications.
