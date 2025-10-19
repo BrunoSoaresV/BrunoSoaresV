@@ -1,27 +1,31 @@
-# Hello, I'm Bruno Soares Veríssimo 👋
+# 👋 Hello, I'm Bruno Soares Veríssimo
 
-Welcome to my GitHub profile! I'm Bruno Soares Veríssimo, a technology enthusiast and AI developer. Here, you'll find my projects, experiments, and contributions that reflect my passion and dedication to continuous learning in the realm of artificial intelligence and web development.
+Welcome to my GitHub profile!
+I'm a **technology enthusiast and AI developer** passionate about building intelligent, efficient, and scalable digital solutions.
 
-## 🌱 I'm Learning
+Here, you'll find my **projects, research, and experiments** — all reflecting my dedication to continuous learning and innovation in **artificial intelligence** and **web development**.
 
-Currently, I'm focused on deepening my knowledge in:
+---
 
-- Neural Networks
-- Artificial Intelligence
-- Machine Learning
-- Node.js
-- React
-- TypeScript
-- Vue.js
-- JavaScript
+## 🌱 What I’m Currently Learning
 
-My goal is to become a competent AI and full-stack web developer, combining advanced AI techniques with front-end and back-end knowledge to create innovative and intelligent applications.
+I'm currently expanding my expertise in the following areas:
+
+* 🧠 Neural Networks & Deep Learning
+* 🤖 Artificial Intelligence & Machine Learning
+* 💻 Full-Stack Development (Node.js, React, Vue.js, TypeScript, JavaScript)
+
+My long-term goal is to become a **well-rounded AI and full-stack developer**, capable of combining advanced AI techniques with robust front-end and back-end architectures to create truly **innovative and intelligent applications**.
+
+---
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSoaresV&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSoaresV\&layout=compact\&theme=tokyonight)
 
-## 📫 How to Reach Me 
+---
 
-- LinkedIn: [www.linkedin.com/in/brunosoaresv](https://www.linkedin.com/in/brunosoaresv)
-- Email: brunoverissimo398@gmail.com
+## 📫 Connect with Me
+
+* 💼 [LinkedIn – Bruno Soares Veríssimo](https://www.linkedin.com/in/brunosoaresv)
+* 📧 **Email:** [brunoverissimo398@gmail.com](mailto:brunoverissimo398@gmail.com)
