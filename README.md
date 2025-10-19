@@ -13,7 +13,7 @@ I'm currently expanding my expertise in the following areas:
 
 * 🧠 Neural Networks & Deep Learning
 * 🤖 Artificial Intelligence & Machine Learning
-* 💻 Full-Stack Development (Node.js, React, Vue.js, TypeScript, JavaScript)
+* 💻 Full-Stack Development (Python, Django, Node.js, React, Vue.js, TypeScript, JavaScript)
 
 My long-term goal is to become a **well-rounded AI and full-stack developer**, capable of combining advanced AI techniques with robust front-end and back-end architectures to create truly **innovative and intelligent applications**.
 
